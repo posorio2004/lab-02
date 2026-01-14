@@ -2,12 +2,13 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Pablo Osorio
+- **CCID:** posorio
 
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
+Stackoverflow
 
 ## Verbal Collaboration
 
